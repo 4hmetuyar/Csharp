@@ -26,4 +26,11 @@ namespace TypeAndVariables
 
         }
     }
+
+    enum Days
+    {
+        Monday,
+        Tuesday
+
+    }
 }
