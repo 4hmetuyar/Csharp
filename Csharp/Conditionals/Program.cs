@@ -20,8 +20,14 @@ namespace Conditionals
             {
                 Console.WriteLine("False");
             }
-
             Console.ReadLine();
+
+            //Single Line If
+
+            Console.WriteLine(number == 10 ? "True", "False");
+
+
+
         }
     }
 }
