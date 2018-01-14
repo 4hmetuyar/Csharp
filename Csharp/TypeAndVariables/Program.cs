@@ -13,10 +13,12 @@ namespace TypeAndVariables
             short number3 = 10;//16 Bit
             byte number4 = 10;//8 Bit
             double number5 = 4.5; //32 bit
-            decimal number6 = 4.2;//64 Bit
+            decimal number6 = 4;//64 Bit
 
             bool condition = false;
             char charcters = 'A';
+
+            var number7 = 10;
 
             Console.WriteLine("Number 1 is {0}", number1);
             Console.WriteLine("Number 2 is {0}", number2);
